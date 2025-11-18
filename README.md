@@ -3,7 +3,7 @@
 **Student ID:** 27185  
 **Names:** Confiance UFITAMAHORO  
 
-# Java Console Applications Collection
+# JAVA OOP
 
 A comprehensive collection of 6 Java-based console applications designed for various management systems. Each application features robust input validation, data processing, and user-friendly console interfaces.
 
