@@ -1,8 +1,8 @@
-# 28048-ASSIGNMENT-ONE
+# ASSIGNMENT-ONE
 
-**Student ID:** 28048  
-**Names:** RUDAHIGWA M. Loic  
-**GitHub account:** https://github.com/28048  
+**Student ID:** 27185  
+**Names:** Confiance UFITAMAHORO  
+**GitHub account:**   
 
 ---
 
