@@ -7,7 +7,7 @@
 
 A comprehensive collection of 6 Java-based console applications designed for various management systems. Each application features robust input validation, data processing, and user-friendly console interfaces.
 
-## 📋 Applications Overview
+## Applications Overview
 
 ### 1. Stock Management System
 **Purpose**: Manage product inventory, suppliers, and stock movements  
@@ -71,8 +71,4 @@ A comprehensive collection of 6 Java-based console applications designed for var
 - **Console Interface**: Clean and intuitive text-based UI
 - **Data Validation**: Date formats, numeric ranges, and format checking
 
-### Compilation
-```bash
-# Compile all Java files
-javac *.java
 
