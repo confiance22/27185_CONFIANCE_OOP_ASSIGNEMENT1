@@ -9,7 +9,7 @@ A comprehensive collection of 6 Java-based console applications designed for var
 
 ## 📋 Applications Overview
 
-### 1. 🏪 Stock Management System
+### 1. Stock Management System
 **Purpose**: Manage product inventory, suppliers, and stock movements  
 **Features**: 
 - Track product inventory across multiple warehouses
@@ -18,7 +18,7 @@ A comprehensive collection of 6 Java-based console applications designed for var
 - Monitor stock levels and reorder points
 - Generate inventory reports
 
-### 2. ✈️ Flight Booking System
+### 2. Flight Booking System
 **Purpose**: Handle airline reservations and flight management  
 **Features**:
 - Book flights with passenger details
@@ -27,7 +27,7 @@ A comprehensive collection of 6 Java-based console applications designed for var
 - Process payments and generate tickets
 - Calculate fares with taxes and discounts
 
-### 3. 💰 Tax Administration System
+### 3. Tax Administration System
 **Purpose**: Process taxpayer information and manage tax calculations  
 **Features**:
 - Register taxpayers and employers
@@ -36,7 +36,7 @@ A comprehensive collection of 6 Java-based console applications designed for var
 - Maintain taxpayer records
 - Generate tax assessment reports
 
-### 4. 🏥 Health Center System
+### 4. Health Center System
 **Purpose**: Manage patient records and medical appointments  
 **Features**:
 - Maintain patient medical records
@@ -45,7 +45,7 @@ A comprehensive collection of 6 Java-based console applications designed for var
 - Record medical history and treatments
 - Generate patient reports
 
-### 5. 🏛️ Government Service System
+### 5. Government Service System
 **Purpose**: Handle citizen services and document processing  
 **Features**:
 - Process national ID applications
@@ -54,7 +54,7 @@ A comprehensive collection of 6 Java-based console applications designed for var
 - Maintain citizen records
 - Track service requests
 
-### 6. 🎓 Student Management System
+### 6. Student Management System
 **Purpose**: Manage student records and academic information  
 **Features**:
 - Maintain student personal and academic data
@@ -63,7 +63,7 @@ A comprehensive collection of 6 Java-based console applications designed for var
 - Generate academic reports
 - Manage student information
 
-## 🛠️ Technical Features
+## Technical Features
 
 - **Input Validation**: Comprehensive validation for all user inputs
 - **Error Handling**: User-friendly error messages and prompts
